@@ -31,6 +31,7 @@
     // "packages/react-renderer",
     // "packages/sentry",
     "packages/session",
+    "packages/specbook-ui",
     "packages/ssg-plugins-essential",
     "packages/standard-validator",
     "packages/swagger-editor",
